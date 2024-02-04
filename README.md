@@ -19,7 +19,7 @@ Nessa seção vou contar um pouco da minha historia.
 [![QA](https://img.shields.io/badge/-Quality%20Assurance-9C27B0?style=for-the-badge)](https://en.wikipedia.org/wiki/Software_quality_assurance)
 
 ## Acesse minhas redes 
-[![Linktree](https://img.shields.io/badge/-Linktree-39E09B?logo=linktree&logoColor=white&style=for-the-badge)](https://github.com/wesxvr74)
+[![Linktree](https://img.shields.io/badge/-Linktree-39E09B?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/wesxvr)
 
 ## Minha atividade: 
 
