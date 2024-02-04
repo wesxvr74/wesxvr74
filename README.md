@@ -17,9 +17,11 @@ Nessa seção vou contar um pouco da minha historia.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 [![QA](https://img.shields.io/badge/-Quality%20Assurance-9C27B0?style=for-the-badge)](https://en.wikipedia.org/wiki/Software_quality_assurance)
+
+## Acesse minhas redes 
 [![Linktree](https://img.shields.io/badge/-Linktree-39E09B?logo=linktree&logoColor=white&style=for-the-badge)](https://github.com/wesxvr74)
 
-Minha atividade: 
+## Minha atividade: 
 
 <div>
 <a href="[https://github.com/seu-usuário-aqui](https://github.com/wesxvr74)">
