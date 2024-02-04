@@ -8,16 +8,14 @@
   <h1 id="typed-text"></h1>
 
   <script>
-    function startAnimation() {
-      const typed = new Typed('#typed-text', {
-        strings: ['Olá! Eu sou o Wesley Xavier. 👋'],
-        typeSpeed: 50,
-        showCursor: false,
-        onComplete: function() {
-          animateBio();
-        }
-      });
-    }
+    const typed = new Typed('#typed-text', {
+      strings: ['Olá! Aqui é o Wesley Xavier. 👋'],
+      typeSpeed: 50,
+      showCursor: false,
+      onComplete: function() {
+        animateBio();
+      }
+    });
 
     function animateBio() {
       const bioText = document.createElement('p');
@@ -28,14 +26,7 @@
       ⚡ Perfil DISC - CS ...`;
 
       document.body.appendChild(bioText);
-
-        // Inicie a animação novamente após 1 minuto
-        startAnimation();
-      }, 60000); // 1 minuto em milissegundos
     }
-
-    // Inicie a animação ao carregar a página
-    startAnimation();
   </script>
 </body>
 </html>
