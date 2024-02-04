@@ -16,6 +16,7 @@ Nessa seção vou contar um pouco da minha historia.
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+[![QA](https://img.shields.io/badge/-Quality%20Assurance-9C27B0?style=for-the-badge)](https://en.wikipedia.org/wiki/Software_quality_assurance)
 
 <div>
 <a href="https://linktr.ee/wesxvr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/link%20tree%20-grey?style=for-the-badge&logo=linktree" target="_blank"></a>
