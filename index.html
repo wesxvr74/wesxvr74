@@ -10,13 +10,20 @@
   <script>
     function startAnimation() {
       const typed = new Typed('#typed-text', {
-        strings: ['Olá! Aqui é o Wesley Xavier. 👋 Nessa seção vou contar um pouco da minha história. 🔭 Formado em Técnico em Mecatrônica. Atualmente trabalho com Administração em uma Empresa de Tecnologia... 🌱 No momento, estou aprendendo sobre Quality Assurance na Qa.Coders buscando seguir nessa área ... 👯 Procurando por QAs e networking ...<br>⚡ Perfil DISC - CS' ],
+        strings: ['Nessa seção vou contar um pouco da minha história.<br>🔭 Formado em Técnico em Mecatrônica. Atualmente trabalho com Administração em uma Empresa de Tecnologia ...<br>🌱 No momento, estou aprendendo sobre Quality Assurance na Qa.Coders buscando seguir nessa área ...<br>👯 Procurando por QA\'s e networking ...<br>⚡ Perfil DISC - CS ...'],
         typeSpeed: 50,
         showCursor: false,
+        onComplete: function() {
+          animateBio();
+        }
       });
     }
 
-       document.body.appendChild(bioText);
+    function animateBio() {
+      const bioText = document.createElement('p');
+      bioText.innerHTML = `Nessa seção vou contar um pouco da minha história.<br>🔭 Formado em Técnico em Mecatrônica. Atualmente trabalho com Administração em uma Empresa de Tecnologia ...<br>🌱 No momento, estou aprendendo sobre Quality Assurance na Qa.Coders buscando seguir nessa área ...<br>👯 Procurando por QA's e networking ...<br>⚡ Perfil DISC - CS ...`;
+
+      document.body.appendChild(bioText);
 
       setTimeout(function() {
         // Remova o texto da bio atual
@@ -24,7 +31,7 @@
 
         // Inicie a animação novamente após 1 minuto
         startAnimation();
-      }, 30000); // 1 minuto em milissegundos
+      }, 60000); // 1 minuto em milissegundos
     }
 
     // Inicie a animação ao carregar a página
