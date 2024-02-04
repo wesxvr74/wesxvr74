@@ -1,13 +1,36 @@
-Ola, aqui é o Wesley Xavier. 👋                                                                       
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Minha Bio</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+</head>
+<body>
+  <h1 id="typed-text"></h1>
 
-Seja bem vindo.
+  <script>
+    const typed = new Typed('#typed-text', {
+      strings: ['Olá! Eu sou o Wesley Xavier. 👋'],
+      typeSpeed: 50,
+      showCursor: false,
+      onComplete: function() {
+        animateBio();
+      }
+    });
 
-Nessa seção vou contar um pouco da minha historia.  
+    function animateBio() {
+      const bioText = document.createElement('p');
+      bioText.innerHTML = `Ola, aqui é o Wesley Xavier. 👋                                                                      
+          Seja bem vindo. Nessa seção vou contar um pouco da minha história.<br>
+      🔭 Formado em Técnico em Mecatrônica. Atualmente trabalho com Administração em uma Empresa de Tecnologia ...<br>
+      🌱 No momento, estou aprendendo sobre Quality Assurance na Qa.Coders buscando seguir nessa área ...<br>
+      👯 Procurando por QA's e networking ...<br>
+      ⚡ Perfil DISC - CS ...`;
 
-- 🔭 Formado em Tecnico em Mecatronica. Atualmente trabalho com Administração em uma Empresa de Tecnologia ...
-- 🌱 No momento estou aprendendo sobre Quality Assurance na Qa.Coders buscando seguir nessa area ... 
-- 👯 Procurando por QA's e networking ...
-- ⚡ Perfil DISC - CS ...
+      document.body.appendChild(bioText);
+    }
+  </script>
+</body>
+</html>
 
 ## Ferramentas e Tecnologias
 
