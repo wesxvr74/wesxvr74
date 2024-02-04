@@ -1,5 +1,5 @@
 <!-- Início da animação -->
-[!(https://wesxvr74.github.io/wesxvr74/index.html)])
+[!(https://wesxvr74.github.io/wesxvr74/wesxvr74/index.html)])
 <!-- Fim da animação -->
 
 ## Ferramentas e Tecnologias
