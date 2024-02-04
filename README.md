@@ -1,13 +1,6 @@
-Ola, aqui é o Wesley Xavier. 👋
-
-Seja bem vindo.
-
-Nessa seção vou contar um pouco da minha historia.
-
-🔭 Formado em Tecnico em Mecatronica. Atualmente trabalho com Administração em uma Empresa de Tecnologia ...
-🌱 No momento estou aprendendo sobre Quality Assurance na Qa.Coders buscando seguir nessa area ...
-👯 Procurando por QA's e networking ...
-⚡ Perfil DISC - CS ...
+<!-- Início da animação -->
+[![Animação](https://github.com/wesxvr74/wesxvr74/blob/main/animated.html)])
+<!-- Fim da animação -->
 
 ## Ferramentas e Tecnologias
 
