@@ -10,7 +10,7 @@ Nessa seção vou contar um pouco da minha historia.
 - ⚡ Perfil DISC - CS ...
 
 <div>
-<a href="https://linktr.ee/wesxvr" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Linktree_logo.svg/2560px-Linktree_logo.svg.png" target="_blank"></a>
+<a href="https://linktr.ee/wesxvr" target="_blank"><img loading="lazy" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wesley-anunciacao-xavier-533753168" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
