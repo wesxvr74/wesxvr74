@@ -11,7 +11,6 @@ Nessa seção vou contar um pouco da minha historia.
 
 <div>
 <a href="https://linktr.ee/wesxvr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/link%20tree%20-grey?style=for-the-badge&logo=linktree" target="_blank"></a>
-<a href="https://www.linkedin.com/in/wesley-anunciacao-xavier-533753168" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
