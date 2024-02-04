@@ -1,4 +1,4 @@
-Ola, aqui é o Wesley Xavier. 👋
+Ola, aqui é o Wesley Xavier. 👋                                                                       
 
 Seja bem vindo.
 
@@ -7,7 +7,12 @@ Nessa seção vou contar um pouco da minha historia.
 - 🔭 Formado em Tecnico em Mecatronica. Atualmente trabalho com Administração em uma Empresa de Tecnologia ...
 - 🌱 No momento estou aprendendo sobre Quality Assurance na Qa.Coders buscando seguir nessa area ...
 - 👯 Procurando por QA's e networking ...
-- 📫 Da um view no meu perfil: https://linktr.ee/wesxvr ...
+
+<div>
+<a href="https://linktr.ee/wesxvr" target="_blank"><img loading="lazy" src="https://play.google.com/store/apps/details?id=ee.linktr.admin&hl=pt" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wesley-anunciacao-xavier-533753168" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 - ⚡ Perfil DISC - CS ...
 
 Minha atividade: 
